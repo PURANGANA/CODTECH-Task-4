@@ -12,4 +12,8 @@
 # Key activities
 * Object detection: Uses neural networks to localize and classify objects in images
 # Technologies used
-* python: 
+* python: Primary programming language used for solving computer vision task
+* numpy: Used for working with arrays and contains functions for working in domain of linear algebra, fourier transform, and matrices
+* cv2: Provides developers with an easy-to-use interface for working with image and video processing functions
+* Colab: Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources
+  
